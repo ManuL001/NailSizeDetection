@@ -3,12 +3,6 @@
 
 ---
 
-**Author:** Manuel Lisa  
-**Institution:** Pervasive Computing, JKU Linz, Linz, Upper Austria  
-**Contact:** [manuel.lisa.workmail@gmail.com](mailto:manuel.lisa.workmail@gmail.com)
-
----
-
 ## Overview  
 This repository contains the code and data processing pipeline for classifying nail sizes based on motion data captured using an **OptiTrack Motion-Capturing system**. The project simulates inputs from an exoskeleton to enhance task recognition, focusing on detecting nail sizes through hammering motions. A **Random Forest Classifier** is used to distinguish between **20mm**, **40mm**, and **80mm** nails by analyzing positional data from key anatomical points such as the **hand**, **lower arm**, **upper arm**, and **shoulder**.
 
